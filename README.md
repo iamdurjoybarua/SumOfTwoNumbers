@@ -25,5 +25,3 @@ The program prompts the user to input two integers. It then calculates their sum
 4.  **Input:** The program will prompt you to enter the first number, press Enter, and then enter the second number, and press Enter again.
 
 5.  **Output:** The program will then display the sum of the two numbers.
-
-## Example
